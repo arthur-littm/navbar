@@ -1,0 +1,27 @@
+.mynavbar {
+  display: flex;
+  justify-content: space-between;
+  background: white;
+  padding: 20px;
+}
+
+.logo {
+  height: 50px;
+  width: 50px;
+
+}
+
+.avatar {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+.link {
+  padding: 0 10px;
+}
+
+.mynavbar-right {
+  display: flex;
+  align-items: center;
+}
